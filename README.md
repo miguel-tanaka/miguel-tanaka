@@ -8,7 +8,7 @@
 - Objetivo de carreira: Construir uma trajetória sólida e inovadora na área de tecnologia.
 
 ## Tecnologias 
-<div align="center">
+<div align="left">
   <img src="https://camo.githubusercontent.com/426c1121b29abc64a6b1af1e3aa3091abb38e39c87054720b765af1425c74e7f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
   <img src="https://camo.githubusercontent.com/fafaeabfcab6651a07955fbce34b8fb29d2536bcb499c5112e01bbe7377f9399/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6e6f6465646f746a732f333339393333" width="40" alt="Node.js"/>
